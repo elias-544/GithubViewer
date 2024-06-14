@@ -1,4 +1,4 @@
-# GithubViewer 🐝
+# GithubViewer 👀
 
 This repository of __GithubViewer__ is made using Java and JavaFX. It requires you to signup first and then login to the account and then you can view my Github. 😀
 
